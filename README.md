@@ -1,7 +1,7 @@
 # Campus-Care
 CampusCare is a web based appointment management tool specifically designed for university clinic environments. The application helps solve the critical challenge of healthcare accessibility for university students and staff within higher education institutions
 Our Team Members Worked on this project,
-KANJAK MEMON, Syed Fawwaz Kazmi, Ibrahim Shuaib Wyne, 
+KANJAK MEMON, Syed Fawwaz Kazmi, Ibrahim Shuaib Wyne, Hussain Shaheer
 SDG: SDG 3 - Good Health and Well-Being
 University students are facing many mental health issues, including:
 41% of university students suffer from moderate to severe anxiety
